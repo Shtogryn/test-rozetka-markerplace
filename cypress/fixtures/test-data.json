@@ -1,0 +1,8 @@
+{
+    "minPrice": 15000,
+    "maxPrice": 26000,
+    "expectSearchItem": "Смартфон Google Pixel 6a 5G 6/128GB Chalk Craie",
+    "invalidPhoneNum": "0929895698",
+    "invalidPassword": "123456",
+    "errMessage": "Необхідно підтвердити, що ви не робот"
+}

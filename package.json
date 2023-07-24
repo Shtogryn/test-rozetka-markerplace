@@ -1,0 +1,20 @@
+{
+    "name": "test-rozetka-markerplace",
+    "version": "1.0.0",
+    "description": "test rozetka marketplace",
+    "main": "index.js",
+    "scripts": {
+        "runner": "cypress open",
+        "html-report": "cypress run --spec cypress/e2e/test_case_02.cy.js --browser chrome --headed"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^12.17.2",
+        "cypress-mochawesome-reporter": "^3.5.1"
+    },
+    "dependencies": {
+        "cypress-xpath": "^2.0.1",
+        "dotenv": "^16.3.1"
+    }
+}

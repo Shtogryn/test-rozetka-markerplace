@@ -1,0 +1,8 @@
+{
+    "goods_price": ".goods-tile__price-value",
+    "goods_title": ".goods-tile__title",
+    "button_buy": ".buy-button",
+    "goods_title_in_basket": "//a[@data-testid='title']",
+    "goods_tile_heading": ".goods-tile__heading",
+    "error_message": ".error-message"
+}
